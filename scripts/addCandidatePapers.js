@@ -1,4 +1,4 @@
-const NUMBER_OF_CANDIDATE_PAPERS_TO_FETCH = 200;
+const NUMBER_OF_CANDIDATE_PAPERS_TO_FETCH = 2000;
 
 const fs = require("fs");
 const axios = require("axios");
